@@ -187,7 +187,8 @@ const Main = () => {
       <img
         src="src/img/video-2.png"
         alt="Description of the image"
-        style={{ maxWidth: "100%", height: "auto", borderRadius: "10px" }} 
+        style={{ maxWidth: "100%", height: "auto", borderRadius: "10px" }}
+        //add new thinks 
       />
     </div>
   </div>
